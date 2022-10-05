@@ -1,5 +1,11 @@
 ## 1.31.0 (2022-02-16)
 
+## 1.31.2
+
+### Patch Changes
+
+- d62e17d: fix test: Use correct PATH for npm install test
+
 ## 1.31.1
 
 ### Patch Changes
