@@ -1,5 +1,11 @@
 ## 1.31.0 (2022-02-16)
 
+## 1.35.2
+
+### Patch Changes
+
+- [#1050](https://github.com/Schniz/fnm/pull/1050) [`d6c132a`](https://github.com/Schniz/fnm/commit/d6c132adfd1c29c48acb0b9de42538146e23cf18) Thanks [@JakeHandsome](https://github.com/JakeHandsome)! - Fix `cd /D` on windows with `--use-on-cd`
+
 ## 1.35.1
 
 ### Patch Changes
